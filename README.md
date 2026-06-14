@@ -4,7 +4,7 @@ NulAware AI is an interactive data profiling assistant built with Streamlit, Chr
 
 ## 🚀 Live Demo
 
-- 🌐 Deployment: https://your-app-url.streamlit.app
+- 🌐 Deployment: https://huggingface.co/spaces/yaliniBabukannan/Nullaware
 - 🎥 Demo Video: https://www.loom.com/share/6c8b70b09c4e4560a654f7bfcb53153e
 
 ## Key Features
